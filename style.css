@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap');
+
+.Gradient_Background {
+    background-image: url("Gradient Background.png");
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 1080px;
+    z-index: 2;
+  }
+
+  .SOUPYPORTFOLIO {
+    font-size: 14px;
+    font-family: 'Noto Sans TC', sans-serif;
+    color: rgb(255, 255, 255);
+  }
+
+.About_Background {
+    background-image: url("About Background.png");
+    position: absolute;
+    left: 162px;
+    top: 365px;
+    width: 258px;
+    height: 84px;
+    z-index: 4;
+  }
+
+  .About_Text {
+    font-size: 10px;
+    font-family: 'Noto Sans TC font-family, sans-serif';
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    -moz-transform: matrix( 3.94664751627378,0,0,3.94664751627378,0,0);
+    -webkit-transform: matrix( 3.94664751627378,0,0,3.94664751627378,0,0);
+    -ms-transform: matrix( 3.94664751627378,0,0,3.94664751627378,0,0);
+    position: absolute;
+    left: 262.5px;
+    top: 380px;
+    z-index: 5;
+  }
+
+  .Circle_Thing {
+    background-image: url("Circle Thing.png");
+    position: absolute;
+    left: 1254px;
+    top: 363px;
+    width: 500px;
+    height: 500px;
+    z-index: 8;
+  }
+
+  .Soup_Logo {
+    background-image: url("Soup Logo.png");
+    position: absolute;
+    left: 1375px;
+    top: 542px;
+    width: 299px;
+    height: 106px;
+    z-index: 9;
+  }
+
+  .ContactBackground {
+    background-image: url("Contact.png");
+    position: absolute;
+    left: 460px;
+    top: 368px;
+    width: 258px;
+    height: 82px;
+    z-index: 11;
+  }
+
+  .ContactText {
+    font-size: 10px;
+    font-family: 'Noto Sans TC font-family, sans-serif';
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    -moz-transform: matrix( 3.39249217826738,0,0,3.39249217826738,0,0);
+    -webkit-transform: matrix( 3.39249217826738,0,0,3.39249217826738,0,0);
+    -ms-transform: matrix( 3.39249217826738,0,0,3.39249217826738,0,0);
+    position: absolute;
+    left: 550px;
+    top: 380px;
+    z-index: 12;
+  }
+
+  .ProjectBackground {
+    background-image: url("Stuff I have made.png") ;
+    position: absolute;
+    left: 760px;
+    top: 368px;
+    width: 257px;
+    height: 82px;
+    z-index: 15;
+  }
+
+  .ProjectText {
+    font-size: 10px;
+    font-family: 'Noto Sans TC font-family, sans-serif';
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    -moz-transform: matrix( 3.27112228035853,0,0,3.27112228035853,0,0);
+    -webkit-transform: matrix( 3.27112228035853,0,0,3.27112228035853,0,0);
+    -ms-transform: matrix( 3.27112228035853,0,0,3.27112228035853,0,0);
+    position: absolute;
+    left: 860px;
+    top: 380px;
+    z-index: 16;
+  }
+
+  .Bar_Thing {
+    background-image: url("Bar Thing.png");
+    position: absolute;
+    left: 134px;
+    top: 282px;
+    width: 966px;
+    height: 23px;
+    z-index: 18;
+  }
